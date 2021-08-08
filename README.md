@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gopalakrishnan
 - 👀 I’m interested in Software development, Performace engineering, Distributed Systems
 - 🌱 I’m currently learning Typescript and React
-- 💞️ I’m looking to collaborate on Software development
+- 💞️ I code primarily in Java, Sprig Boot. I’m looking to collaborate on backend development
 - 📫 You can reach out me at gopi20315@gmail.com or @Krishnander at Twitter
 
 <!---
