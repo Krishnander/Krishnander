@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Gopalakrishnan. I work as a Software Engineer at VMware. My job petains to building APIs & Microservices. I primarily dabble working in technologies such as Java, Spring Boot, Kubernetes
+- 👋 Hi, I’m Gopalakrishnan. I work as a Software Engineer at VMware. My job petains to building APIs & Microservices.
+      I primarily dabble working in technologies such as Java, Spring Boot, Kubernetes
 - 👀 I’m interested in Software development, Performace engineering, Distributed Systems
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on backend development
