@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Gopalakrishnan. I'm a Software Engineer. My skillset pertains to building APIs & Microservices.
-      I primarily dabble working in technologies such as Java, Spring Boot, Kubernetes, Kafka, MQ, Redis, MySQL, MongoDB, Elastic Search, AWS.
-- 👀 I’m interested in Developing Cloud native apps, Building Distributed Systems, Performace engineering, Gen AI.
-- 🌱 I’m currently learning ReactJS.
-- 💞️ I’m looking to collaborate on backend development.
+- 👋 Hi, I’m Gopalakrishnan. I'm a Senior Software Engineer. My skillset pertains to building APIs & Microservices.
+      I primarily dabble working in technologies such as Python, Java, Typescipt, AI/ML/DL/RL , AWS.
+- 👀 I’m interested in Healthcare AI, Developing Cloud native apps, Building Distributed Systems, Performace engineering.
+- 🌱 I’m currently learning applying Reinforcement learning in Healthcare AI.
+- 💞️ I’m looking to collaborate on building AI projects.
 - 📫 You can reach out me at gopi20315@gmail.com.
 
 <!---
