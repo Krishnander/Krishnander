@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gopalakrishnan. I'm a Senior Software Engineer. My skillset pertains to building APIs & Microservices.
+- 👋 Hi, I’m Gopalakrishnan. I'm a Senior Software Engineer. My skillset pertains to building AI agents, APIs & Microservices.
       I primarily dabble working in technologies such as Python, Java, Typescipt, AI/ML/DL/RL , AWS.
 - 👀 I’m interested in Healthcare AI, Developing Cloud native apps, Building Distributed Systems, Performace engineering.
 - 🌱 I’m currently learning applying Reinforcement learning in Healthcare AI.
